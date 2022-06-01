@@ -1,0 +1,13 @@
+C:\Users\tsymb\Desktop\4 курс\Демо экз\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\tsymb\Desktop\4 курс\Демо экз\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\tsymb\Desktop\4 курс\Демо экз\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\tsymb\Desktop\4 курс\Демо экз\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\tsymb\Desktop\4 курс\Демо экз\Demo\Demo\obj\Debug\Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsymb\Desktop\4 курс\Демо экз\Demo\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\tsymb\Desktop\4 курс\Демо экз\Demo\Demo\obj\Debug\Demo.Form2.resources
+C:\Users\tsymb\Desktop\4 курс\Демо экз\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\tsymb\Desktop\4 курс\Демо экз\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\tsymb\Desktop\4 курс\Демо экз\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\tsymb\Desktop\4 курс\Демо экз\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\tsymb\Desktop\4 курс\Демо экз\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\tsymb\Desktop\4 курс\Демо экз\Demo\Demo\obj\Debug\Demo.Form3.resources
